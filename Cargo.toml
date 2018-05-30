@@ -1,0 +1,7 @@
+[package]
+name = "code_builder"
+version = "0.1.0"
+authors = ["The Weld Developers <weld-group@lists.stanford.edu>"]
+license = "BSD-3-Clause"
+
+[dependencies]
