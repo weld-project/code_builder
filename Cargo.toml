@@ -3,5 +3,7 @@ name = "code_builder"
 version = "0.1.0"
 authors = ["The Weld Developers <weld-group@lists.stanford.edu>"]
 license = "BSD-3-Clause"
+repository = "https://github.com/weld-project/code_builder/"
+description = "A code builder for generating indented string code blocks."
 
 [dependencies]
